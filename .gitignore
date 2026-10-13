@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE / editors
+.idea/
+.vscode/
+*.iml
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Local app config (stores encrypted FTP profiles/passwords)
+.ftp_client_config.json
